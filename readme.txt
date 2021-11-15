@@ -1,3 +1,1 @@
-bbbc
-nnn
-mmm
+1
