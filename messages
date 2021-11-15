@@ -1,0 +1,13 @@
+Nov 15 20:40:01 kvm01 systemd: Started Session 6 of user root.
+Nov 15 20:40:01 kvm01 systemd: Starting Session 6 of user root.
+Nov 15 20:50:01 kvm01 systemd: Started Session 7 of user root.
+Nov 15 20:50:01 kvm01 systemd: Starting Session 7 of user root.
+Nov 15 21:00:01 kvm01 systemd: Started Session 8 of user root.
+Nov 15 21:00:01 kvm01 systemd: Starting Session 8 of user root.
+Nov 15 21:01:01 kvm01 systemd: Started Session 9 of user root.
+Nov 15 21:01:01 kvm01 systemd: Starting Session 9 of user root.
+Nov 15 21:10:01 kvm01 systemd: Started Session 10 of user root.
+Nov 15 21:10:01 kvm01 systemd: Starting Session 10 of user root.
+Nov 15 21:13:58 kvm01 kernel: perf: interrupt took too long (7824 > 7656), lowering kernel.perf_event_max_sample_rate to 25000
+Nov 15 21:20:01 kvm01 systemd: Started Session 11 of user root.
+Nov 15 21:20:01 kvm01 systemd: Starting Session 11 of user root.
